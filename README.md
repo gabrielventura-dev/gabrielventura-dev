@@ -1,12 +1,12 @@
-# - Gabriel Ventura
+# - Gabriel Ventura de Freitas
 
-**`Computer Science Student | Software Developer`**
+**`Estudante de Ciência da Computação | Desenvolvedor de Software`**
 
-I'm a Computer Science student focused on software development, currently building my skills through personal projects, academic work, and hands-on experience. I work with technologies such as Java, React, JavaScript, TypeScript, MySQL, and Git/GitHub.
+Sou estudante de Ciência da Computação com foco em desenvolvimento de software, construindo minhas habilidades por meio de projetos pessoais, trabalhos acadêmicos e experiência prática. Trabalho com tecnologias como Java, React, JavaScript, TypeScript, MySQL e Git/GitHub.
 
-I've put these skills into practice through projects such as web applications and the **Agents4Good hackathon**, where I worked on the frontend of **Susi** using React, Next.js, TypeScript, Tailwind CSS, and WebSocket. I enjoy learning by building things, solving problems, and working with other people — I'm still at the beginning of my career, so I'm constantly looking for opportunities to learn from more experienced developers and improve the way I write and organize code.
+Coloquei essas habilidades em prática em projetos como aplicações web e no hackathon **Agents4Good**, onde atuei no frontend do **Susi** usando React, Next.js, TypeScript, Tailwind CSS e WebSocket. Gosto de aprender construindo coisas, resolvendo problemas e trabalhando com outras pessoas — ainda estou no início da carreira, por isso busco constantemente oportunidades de aprender com desenvolvedores mais experientes e melhorar a forma como escrevo e organizo código.
 
-Currently looking for my first opportunity as a **Software Development Intern** or **Junior Developer**.
+Atualmente buscando minha primeira oportunidade como **Estagiário em Desenvolvimento de Software** ou **Desenvolvedor Júnior**.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/gabrielventurad">
@@ -48,7 +48,7 @@ Currently looking for my first opportunity as a **Software Development Intern** 
 
 ---
 
-## - Technologies
+## - Tecnologias
 
 <p align="center">
   <a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" width="40" /></a>
@@ -70,7 +70,7 @@ Currently looking for my first opportunity as a **Software Development Intern** 
 
 <br/>
 
-## 💻 About Me
+## 💻 Sobre Mim
 
 <table>
 <tr>
@@ -78,34 +78,34 @@ Currently looking for my first opportunity as a **Software Development Intern** 
 
 ```javascript
 const gabriel = {
-  name: "Gabriel Ventura de Freitas",
-  age: 19,
-  role: "Computer Science Student",
-  location: "Campina Grande, PB - Brasil 🇧🇷",
-  education: "UNINASSAU",
+  nome: "Gabriel Ventura de Freitas",
+  idade: 19,
+  cargo: "Estudante de Ciência da Computação",
+  localizacao: "Campina Grande, PB - Brasil 🇧🇷",
+  formacao: "UNINASSAU",
 
-  lookingFor: "Software Development Internship / Junior Developer",
+  procurando: "Estágio em Desenvolvimento de Software / Desenvolvedor Júnior",
 
-  projects: [
-    "Web Applications",
-    "Susi — Agents4Good Hackathon (Frontend)"
+  projetos: [
+    "Aplicações Web",
+    "Susi — Hackathon Agents4Good (Frontend)"
   ],
 
-  learning: [
+  aprendendo: [
     "PHP",
     "Express",
-    "Software Architecture",
-    "Generative AI"
+    "Arquitetura de Software",
+    "IA Generativa"
   ],
 
-  tech: {
+  tecnologias: {
     frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
     backend: ["Node.js", "Express", "Java", "PHP"],
-    database: ["MySQL"],
-    other: ["Git", "GitHub", "WebSocket"]
+    bancoDeDados: ["MySQL"],
+    outras: ["Git", "GitHub", "WebSocket"]
   },
 
-  goal: "Senior Software Developer"
+  objetivo: "Desenvolvedor de Software Sênior"
 };
 ```
 
