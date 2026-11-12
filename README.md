@@ -1,10 +1,10 @@
 # - Gabriel Ventura de Freitas
 
-**`Estudante de Ciência da Computação | Desenvolvedor de Software`**
+**`Estudante de Ciência da Computação e Matemática | Desenvolvedor de Software`**
 
-Sou estudante de Ciência da Computação com foco em desenvolvimento de software, construindo minhas habilidades por meio de projetos pessoais, trabalhos acadêmicos e experiência prática. Trabalho com tecnologias como Java, React, JavaScript, TypeScript, MySQL e Git/GitHub.
+Sou estudante de Ciência da Computação (UNINASSAU) e Matemática (UFCG) com foco em desenvolvimento de software, construindo minhas habilidades por meio de projetos pessoais, trabalhos acadêmicos e experiência prática. Trabalho com tecnologias como Java, React, JavaScript, TypeScript, Python, Docker, MySQL e Git/GitHub.
 
-Coloquei essas habilidades em prática em projetos como aplicações web e no hackathon **Agents4Good**, onde atuei no frontend do **Susi** usando React, Next.js, TypeScript, Tailwind CSS e WebSocket. Gosto de aprender construindo coisas, resolvendo problemas e trabalhando com outras pessoas — ainda estou no início da carreira, por isso busco constantemente oportunidades de aprender com desenvolvedores mais experientes e melhorar a forma como escrevo e organizo código.
+Coloquei essas habilidades em prática em projetos como o **labAt01** — implantação de uma aplicação em contêineres Docker, com duas réplicas da aplicação atrás de um balanceador Nginx e teste de tolerância a falhas —, em aplicações web e no hackathon **Agents4Good**, onde atuei no frontend do **Susi** usando React, Next.js, TypeScript, Tailwind CSS e WebSocket. Gosto de aprender construindo coisas, resolvendo problemas e trabalhando com outras pessoas — ainda estou no início da carreira, por isso busco constantemente oportunidades de aprender com desenvolvedores mais experientes e melhorar a forma como escrevo e organizo código.
 
 Atualmente buscando minha primeira oportunidade como **Estagiário em Desenvolvimento de Software** ou **Desenvolvedor Júnior**.
 
@@ -65,6 +65,7 @@ Atualmente buscando minha primeira oportunidade como **Estagiário em Desenvolvi
   <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" width="40" /></a>
   <a href="https://github.com/about" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="GitHub" width="40" style="background-color:white;border-radius:6px;" /></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VS Code" width="40" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker" width="40" /></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" width="40" /></a>
 </p>
 
@@ -80,13 +81,14 @@ Atualmente buscando minha primeira oportunidade como **Estagiário em Desenvolvi
 const gabriel = {
   nome: "Gabriel Ventura de Freitas",
   idade: 19,
-  cargo: "Estudante de Ciência da Computação",
+  cargo: "Estudante de Ciência da Computação e Matemática",
   localizacao: "Campina Grande, PB - Brasil 🇧🇷",
-  formacao: "UNINASSAU",
+  formacao: ["UNINASSAU (CC)", "UFCG (Matemática)"],
 
   procurando: "Estágio em Desenvolvimento de Software / Desenvolvedor Júnior",
 
   projetos: [
+    "labAt01 — Docker, Compose e Nginx com balanceamento de carga",
     "Aplicações Web",
     "Susi — Hackathon Agents4Good (Frontend)"
   ],
@@ -102,6 +104,7 @@ const gabriel = {
     frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
     backend: ["Node.js", "Express", "Java", "PHP"],
     bancoDeDados: ["MySQL"],
+    devops: ["Docker", "Docker Compose", "Nginx"],
     outras: ["Git", "GitHub", "WebSocket"]
   },
 
